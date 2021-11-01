@@ -1,1 +1,10 @@
 This is the software to run the GUI on a laptop
+
+Needed packages:
+- serial
+- PIL
+- threading
+- asyncio
+- bleak
+- tkinter
+- pathlib
